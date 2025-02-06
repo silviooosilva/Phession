@@ -1,0 +1,20 @@
+{
+    "name": "silviooosilva/phession",
+    "description": "Phession é uma biblioteca leve e eficiente para gerenciar sessões em PHP, proporcionando um controle mais flexível e seguro.",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Silviooosilva\\Phession\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sílvio Silva",
+            "email": "gasparsilvio7@gmail.com"
+        }
+    ]
+}

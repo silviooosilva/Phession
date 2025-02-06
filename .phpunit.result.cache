@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PhessionTest::testGetSession":8,"PhessionTest::testDestroySession":7,"PhessionTest::testSetSession":8,"PhessionTest::testVerifySession":8},"times":{"PhessionTest::testSetSession":0.025,"PhessionTest::testGetSession":0.004,"PhessionTest::testVerifySession":0.001,"PhessionTest::testDestroySession":0.001}}
