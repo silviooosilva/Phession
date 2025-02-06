@@ -2,6 +2,9 @@
     "name": "silviooosilva/phession",
     "description": "Phession é uma biblioteca leve e eficiente para gerenciar sessões em PHP, proporcionando um controle mais flexível e seguro.",
     "type": "library",
+    "keywords": ["session", "php", "silviooosilva", "storage"],
+    "homepage": "https://github.com/silviooosilva",
+    "version": "v1.0.0",
     "require": {
         "phpunit/phpunit": "^11.5"
     },
