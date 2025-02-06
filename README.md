@@ -11,7 +11,7 @@ Phession é uma biblioteca leve e eficiente para gerenciar sessões em PHP, prop
 ## Instalação
 
 ```sh
-composer require silviooosilva/phessionPHP
+composer require silviooosilva/phession
 ```
 
 ## Uso Básico
